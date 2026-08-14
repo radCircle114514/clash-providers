@@ -1,6 +1,8 @@
 # REPO: https://github.com/radCircle114514/rules/
 # UPDATED: 2025-12-10
 payload:
+  # g3soft
+  - DOMAIN-SUFFIX,g3soft.cn
   # Tencent
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,idqqimg.com

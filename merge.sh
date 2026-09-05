@@ -4,7 +4,7 @@
 OUTPUT_FILE="config.yaml"
 
 # GitHub base URL
-GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/rules/master/Provider"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider"
 
 # # Start writing the output file
 # echo "rule-providers:" > "$OUTPUT_FILE"

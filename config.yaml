@@ -2,6 +2,7 @@ AI: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/r
 Amazon: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Amazon.yaml', path: ./Rules/Amazon, interval: 86400 }
 Apple: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Apple.yaml', path: ./Rules/Apple, interval: 86400 }
 Banned: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Banned.yaml', path: ./Rules/Banned, interval: 86400 }
+Bond: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Bond.yaml', path: ./Rules/Bond, interval: 86400 }
 Crypto: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Crypto.yaml', path: ./Rules/Crypto, interval: 86400 }
 Discord: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Discord.yaml', path: ./Rules/Discord, interval: 86400 }
 Domestic: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Domestic.yaml', path: ./Rules/Domestic, interval: 86400 }

@@ -1,0 +1,11 @@
+# REPO: https://github.com/radCircle114514/clash-providers/
+# UPDATED: 2026-09-06
+payload:
+  # General
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripecdn.com
+
+  # Merchant of Record / checkout platforms
+  - DOMAIN-SUFFIX,creem.io
+  - DOMAIN-SUFFIX,lemonsqueezy.com

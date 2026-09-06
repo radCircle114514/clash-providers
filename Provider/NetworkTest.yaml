@@ -1,0 +1,18 @@
+# REPO: https://github.com/radCircle114514/clash-providers/
+# UPDATED: 2026-09-06
+payload:
+  # IP / DNS leak & fingerprint checks
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,test-ipv6.com
+
+  # Streaming/region unlock checkers
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,uocheck.com
+  - DOMAIN-SUFFIX,yougetsignal.com

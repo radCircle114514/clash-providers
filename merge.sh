@@ -1,7 +1,11 @@
 #!/bin/bash
 
+# Get script directory
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # Output file
-OUTPUT_FILE="config.yaml"
+OUTPUT_FILE="$SCRIPT_DIR/config.yaml"
+PROVIDER_DIR="$SCRIPT_DIR/Provider"
 
 # GitHub base URL
 GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider"
@@ -10,7 +14,7 @@ GITHUB_BASE_URL="https://raw.githubusercontent.com/radCircle114514/clash-provide
 # echo "rule-providers:" > "$OUTPUT_FILE"
 
 # Check if Provider directory exists
-if [ ! -d "Provider" ]; then
+if [ ! -d "$PROVIDER_DIR" ]; then
     echo "Error: Provider directory not found!"
     exit 1
 fi
@@ -18,7 +22,7 @@ fi
 rm -f "$OUTPUT_FILE"
 
 # Loop through all .yaml files in Provider directory
-for file in Provider/*.yaml; do
+for file in "$PROVIDER_DIR"/*.yaml; do
     # Check if any yaml files exist
     if [ ! -e "$file" ]; then
         echo "No .yaml files found in Provider directory"

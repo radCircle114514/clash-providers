@@ -7,3 +7,9 @@ payload:
 
   # Assets
   - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,paypal-support.com
+  - DOMAIN-SUFFIX,ppstatic.com
+  - DOMAIN-SUFFIX,simility.com
+  - DOMAIN-SUFFIX,braintree-api.com
+  - DOMAIN-SUFFIX,braintreegateway.com

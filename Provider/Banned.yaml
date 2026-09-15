@@ -28,4 +28,8 @@ payload:
   - DOMAIN-SUFFIX,123av.com
   - DOMAIN-SUFFIX,javlibrary.com
   - DOMAIN-SUFFIX,fc2.com
-  - DOMAIN-SUFFIX,njav.tv
+  - DOMAIN-SUFFIX,njav.t
+  # wegame
+  - DOMAIN-SUFFIX,wegame.com
+  - DOMAIN-SUFFIX,wegame.qq.com
+  - DOMAIN-SUFFIX,wegame.cn

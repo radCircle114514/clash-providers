@@ -39,5 +39,6 @@ payload:
   - DOMAIN-SUFFIX,wegame.com
   - DOMAIN-SUFFIX,wegame.qq.com
   - DOMAIN-SUFFIX,wegame.cn
+  - DOMAIN-SUFFIX,wegame.com.cn
 
   - DOMAIN-SUFFIX,weibo.com

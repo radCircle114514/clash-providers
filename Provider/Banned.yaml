@@ -38,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,news.qq.com
   - DOMAIN-SUFFIX,noodlemagazine.com
   - DOMAIN-SUFFIX,threads.com

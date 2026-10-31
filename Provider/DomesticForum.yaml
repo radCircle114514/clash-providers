@@ -1,0 +1,18 @@
+# REPO: https://github.com/radCircle114514/clash-providers/
+# UPDATED: 2025-12-10
+payload:
+  - DOMAIN-SUFFIX,hupu.com
+  - DOMAIN-SUFFIX,tieba.baidu.com
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,zhihu.com
+  - DOMAIN-SUFFIX,taptap.cn
+  - DOMAIN-SUFFIX,news.qq.com
+  - DOMAIN-SUFFIX,weibo.com
+
+  # wegame
+  - DOMAIN-SUFFIX,wegame.com
+  - DOMAIN-SUFFIX,wegame.qq.com
+  - DOMAIN-SUFFIX,wegame.cn
+  - DOMAIN-SUFFIX,wegame.com.cn

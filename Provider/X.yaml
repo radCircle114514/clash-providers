@@ -16,6 +16,7 @@ payload:
   # X AI (Grok)
   - DOMAIN-SUFFIX,grok.x.ai
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
 
   # X Spaces & Live
   - DOMAIN-SUFFIX,periscope.tv

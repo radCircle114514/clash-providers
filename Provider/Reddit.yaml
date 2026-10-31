@@ -1,0 +1,8 @@
+# REPO: https://github.com/radCircle114514/clash-providers/
+# UPDATED: 2025-12-10
+payload:
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,redditinc.com

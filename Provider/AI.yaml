@@ -10,17 +10,3 @@ payload:
   # Anthropic
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
-
-  # Google Gemini
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,gemini.google.com
-
-  # Grok AI
-  - DOMAIN-SUFFIX,grok.x.ai
-  - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,grok.com
-
-  # Meta AI
-  - DOMAIN-SUFFIX,meta.ai
-  - DOMAIN-SUFFIX,ai.meta.com
-  - DOMAIN-SUFFIX,metaai.com

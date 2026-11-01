@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,mycomic.com
   - DOMAIN-SUFFIX,bad.news
-  - DOMAIN-SUFFIX,whos.tc
+  - DOMAIN-SUFFIX,whos.tv
 
   # CDN
   - DOMAIN-SUFFIX,phncdn.com
@@ -19,6 +19,7 @@ payload:
   # Hentai
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,nhentai.net
+  - DOMAIN-SUFFIX,hitomi.la
 
   # AV
   - DOMAIN-SUFFIX,missav.ms

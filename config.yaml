@@ -29,6 +29,7 @@ Steam: { type: http, behavior: classical, url: 'https://raw.githubusercontent.co
 Stripe: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Stripe.yaml', path: ./Rules/Stripe, interval: 86400 }
 Telegram: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Telegram.yaml', path: ./Rules/Telegram, interval: 86400 }
 Threads: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Threads.yaml', path: ./Rules/Threads, interval: 86400 }
+TaiwanForum: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/TaiwanForum.yaml', path: ./Rules/TaiwanForum, interval: 86400 }
 TikTok: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/TikTok.yaml', path: ./Rules/TikTok, interval: 86400 }
 X: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/X.yaml', path: ./Rules/X, interval: 86400 }
 Youtube: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Youtube.yaml', path: ./Rules/Youtube, interval: 86400 }

@@ -1,0 +1,8 @@
+# REPO: https://github.com/radCircle114514/clash-providers/
+# UPDATED: 2026-11-01
+payload:
+  - DOMAIN-SUFFIX,ptt.cc
+  - DOMAIN-SUFFIX,pttweb.cc
+  - DOMAIN-SUFFIX,dcard.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,bahamut.com.tw

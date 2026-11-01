@@ -8,6 +8,10 @@ payload:
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,noodlemagazine.com
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,mycomic.com
+  - DOMAIN-SUFFIX,bad.news
+  - DOMAIN-SUFFIX,whos.tc
 
   # CDN
   - DOMAIN-SUFFIX,phncdn.com

@@ -10,9 +10,3 @@ payload:
   - DOMAIN-SUFFIX,taptap.cn
   - DOMAIN-SUFFIX,news.qq.com
   - DOMAIN-SUFFIX,weibo.com
-
-  # wegame
-  - DOMAIN-SUFFIX,wegame.com
-  - DOMAIN-SUFFIX,wegame.qq.com
-  - DOMAIN-SUFFIX,wegame.cn
-  - DOMAIN-SUFFIX,wegame.com.cn

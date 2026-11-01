@@ -17,7 +17,7 @@ Microsoft: { type: http, behavior: classical, url: 'https://raw.githubuserconten
 Netflix: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Netflix.yaml', path: ./Rules/Netflix, interval: 86400 }
 NetworkTest: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/NetworkTest.yaml', path: ./Rules/NetworkTest, interval: 86400 }
 NicoNico: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/NicoNico.yaml', path: ./Rules/NicoNico, interval: 86400 }
-Paypal: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Paypal.yaml', path: ./Rules/Paypal, interval: 86400 }
+PayPal: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/PayPal.yaml', path: ./Rules/PayPal, interval: 86400 }
 Pornhub: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Pornhub.yaml', path: ./Rules/Pornhub, interval: 86400 }
 Proxy: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Proxy.yaml', path: ./Rules/Proxy, interval: 86400 }
 Reddit: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Reddit.yaml', path: ./Rules/Reddit, interval: 86400 }
@@ -32,4 +32,4 @@ Threads: { type: http, behavior: classical, url: 'https://raw.githubusercontent.
 TaiwanForum: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/TaiwanForum.yaml', path: ./Rules/TaiwanForum, interval: 86400 }
 TikTok: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/TikTok.yaml', path: ./Rules/TikTok, interval: 86400 }
 X: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/X.yaml', path: ./Rules/X, interval: 86400 }
-Youtube: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Youtube.yaml', path: ./Rules/Youtube, interval: 86400 }
+YouTube: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/YouTube.yaml', path: ./Rules/YouTube, interval: 86400 }

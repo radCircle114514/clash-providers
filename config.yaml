@@ -9,6 +9,7 @@ Domestic: { type: http, behavior: classical, url: 'https://raw.githubusercontent
 DomesticAI: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/DomesticAI.yaml', path: ./Rules/DomesticAI, interval: 86400 }
 DomesticForum: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/DomesticForum.yaml', path: ./Rules/DomesticForum, interval: 86400 }
 Facebook: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Facebook.yaml', path: ./Rules/Facebook, interval: 86400 }
+GitHub: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/GitHub.yaml', path: ./Rules/GitHub, interval: 86400 }
 GlobalTV: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/GlobalTV.yaml', path: ./Rules/GlobalTV, interval: 86400 }
 Google: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Google.yaml', path: ./Rules/Google, interval: 86400 }
 Instagram: { type: http, behavior: classical, url: 'https://raw.githubusercontent.com/radCircle114514/clash-providers/master/Provider/Instagram.yaml', path: ./Rules/Instagram, interval: 86400 }

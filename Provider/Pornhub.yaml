@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,hitomi.la
+  - DOMAIN-SUFFIX,rule34.xxx
 
   # AV
   - DOMAIN-SUFFIX,missav.ms
@@ -44,3 +45,6 @@ payload:
   - DOMAIN-SUFFIX,javdock.com
   - DOMAIN-SUFFIX,dujav.com
   - DOMAIN-SUFFIX,7mmtv.sx
+  - DOMAIN-SUFFIX,vjav.com
+  - DOMAIN-SUFFIX,pornzog.com
+  - DOMAIN-SUFFIX,jable.tv

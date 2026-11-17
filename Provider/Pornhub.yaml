@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,hitomi.la
   - DOMAIN-SUFFIX,rule34.xxx
+  - DOMAIN-SUFFIX,danbooru.donmai.us
 
   # AV
   - DOMAIN-SUFFIX,missav.ms
